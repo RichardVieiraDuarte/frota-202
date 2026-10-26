@@ -4,6 +4,15 @@ import java.util.List;
 public class Frota {
     private List<Carro> carros; // Boa prática: programar voltado à interface (List)
 
+    public Frota(){}
     // construtor(sem parâmetros)
+
     // criar os métodos adicionar carro, remover carro e pesquisar carro
+    // adicionar carro
+    public void adicionarCarro(Carro novo){}
+
+    //remover carro
+
+
+    //pesquisar carro
 }
